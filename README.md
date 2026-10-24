@@ -9,7 +9,7 @@ Scripts by the creator of [MoonWare Studio](https://discord.gg/cCcbEXU3N5) (also
 ### MM2
 
 ```lua
-loadstring(game:HttpGet("later.."))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/stubfxck/MoonWare/main/MM2/moonware.lua"))()
 ```
 
 ### Library
